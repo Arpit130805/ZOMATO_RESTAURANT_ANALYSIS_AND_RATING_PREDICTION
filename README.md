@@ -94,8 +94,8 @@ Ensemble-based models showed better performance due to non-linear feature handli
 ---
 
 ## 📁 Project Structure
-├── Zomato_Restaurant_Analysis_and_Rating_Prediction.ipynb
-├── README.md
+- ├── Zomato_Restaurant_Analysis_and_Rating_Prediction.ipynb
+- ├── README.md
 
 ---
 
